@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(image/imga.jpg); 
+    color: white;
+}
+h1{
+    text-align: center;
+}
+textarea{
+    resize: none;
+    margin: 15px;
+    float: left;
+    border: 2px solid white;
+}
+#op{
+    width: 90%;
+    height: 500px;
+    border: 1px solid white;
+    margin: 10px;
+    margin-left: 60px;
+    background-image: none;
+    background-color:white;
+}
+h2{
+    display: inline;
+}
+th{
+    font-size: 29px;
+    text-align: center;
+}
